@@ -1,7 +1,7 @@
 {
     "name": "elements",
     "description": "elements module is a core module that defines all the elements",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "private": true,
     "dependencies": {
         "underscore": "1.0.3"
