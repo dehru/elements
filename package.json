@@ -1,8 +1,7 @@
 {
-    "name": "elements",
+    "name": "emc-elements",
     "description": "elements module is a core module that defines all the elements",
     "version": "0.0.3",
-    "private": true,
     "dependencies": {
         "underscore": "1.0.3"
     }
